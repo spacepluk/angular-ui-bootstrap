@@ -1,5 +1,8 @@
 # bootstrap - [AngularJS](http://angularjs.org/) directives specific to [Bootstrap](http://getbootstrap.com)
 
+# MODIFIED to work with browserify/atomify
+
+
 ***
 
 [![Build Status](https://secure.travis-ci.org/angular-ui/bootstrap.svg)](http://travis-ci.org/angular-ui/bootstrap)
