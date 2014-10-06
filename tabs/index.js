@@ -181,7 +181,7 @@ angular.module('ui.bootstrap.tabs', [])
     require: '^tabset',
     restrict: 'EA',
     replace: true,
-    templateUrl: require('./tab.html'),
+    template: require('./tab.html'),
     transclude: true,
     scope: {
       active: '=?',
